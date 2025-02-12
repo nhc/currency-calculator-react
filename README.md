@@ -4,7 +4,7 @@
 
 1. Clone the repo
 2. `pnpm install`
-3. Add your API key to `.env` file
+3. (Optional) Add your API key to `.env` file
 4. `pnpm run dev`
 
 ## Notes
